@@ -4,7 +4,7 @@
 <!--
 Rota de Viagem is a .NET application designed to find the cheapest travel route between two locations, regardless of the number of connections. 
 -->
-Rota de Viagem is a [.NET](https://dotnet.microsoft.com/pt-br/download) application designed to find the cheapest travel route between two locations, regardless of the number of connections. The application uses Dijkstra's algorithm to process the routes. It consists of a console interface and a REST API, allowing users to query routes and register new ones.
+Rota de Viagem is a [.NET](https://dotnet.microsoft.com/pt-br/download) application designed to find the cheapest travel route between two locations, regardless of the number of connections. The application uses **[Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)** to process the shortests routes. It consists of a console interface and a REST API, allowing users to query routes and register new ones.
 
 ## Technologies Used
 - [C# / .NET Core 8.0](https://dotnet.microsoft.com/pt-br/download)

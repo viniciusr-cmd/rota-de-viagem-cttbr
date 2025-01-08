@@ -173,8 +173,8 @@ RotaDeViagem.Tests test succeeded (0.8s)
 Test summary: total: 3, failed: 0, succeeded: 3, skipped: 0, duration: 0.8s
 ```
 
-Note that the tests are written using the xUnit framework and are located in the `RotaDeViagem.Tests` project.
-If you add a new route or modify the business logic, you should update the tests to ensure that the changes do not break existing functionality.
+#### Note that the tests are written using the xUnit framework and are located in the `RotaDeViagem.Tests` project.
+#### If you add a new route or modify the business logic, you should update the tests to ensure that the changes do not break existing functionality.
 
 ## Design Decisions and Architecture
 
